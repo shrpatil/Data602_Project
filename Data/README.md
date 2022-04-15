@@ -1,5 +1,5 @@
 # Dataset 
 
-Data file is too large to be uploaded.
+158604 observations 42 Features 
 
 Link : [RCSB Protein Data Bank](https://bit.ly/3K0LUJq)
