@@ -17,7 +17,7 @@ It is very important to study the protein structure using X-ray diffraction imag
 
 # Exploratory Analysis Findings
 
-1. We have dropped the necessary features from the dataset along with missing values observations. 
+1. We have dropped the unecessary features from the dataset along with missing values observations. 
 2. Feature-like lengths of crystal cells are converted into volume.
 3. Target variable is converted into the required format.
 4. Identified the features causing multicollinearity.
