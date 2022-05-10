@@ -11,7 +11,7 @@ There are 42 features and 158604 observations.
 
 # Problem Statement
 
-## Prediction the resolution of protein structures using X-ray diffraction data
+## Predicting the resolution of protein structures using X-ray diffraction data
 
 It is very important to study the protein structure using X-ray diffraction images to understand the function of protein in structural biology. Resolution is a measure of the quality of the data that has been collected on the crystal containing the protein. It is a measure of the level of detail present in the diffraction pattern and the level of detail that will be seen when the electron density map is calculated. During the process of crystallography there are several factors which might affect the quality of resolution. Through this project we will be able to understand it. 
 
